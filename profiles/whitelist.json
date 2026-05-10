@@ -1,0 +1,27 @@
+{
+    "WhitelistedUsers": {
+        "956864b5a5318b81c64d050debc82d3d4f63530ff2290466ca63557f3d0a83318606aa9a6f0022da93a061709896f9a3df380029cc6def87cf76f4c22f47ce2f": {
+            "hash": "76545d5c5ebf0582923d8ce265c9c632350f84d802cd7515b0cfb4ff9d46668eed3882e4b709792c7c3ed3e2f0607ff75fc55778619a56559fec30fb702dfb50",
+            "attackable": false,
+            "level": 9,
+            "discord": "a9eb995750e6e85a0304954bc2951c58e5334cf8c4d1633e63a1d302a506d27c3b0659a48ee4f052a6b940287a42d4a37422e0af6bcdf37c3ab9b500a317540f",
+            "hidetags": false,
+            "tags": [
+                {
+                    "text": "yo",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    },
+    "Announcement": {
+        "targets": "all",
+        "expiretime": 1771701041.212921,
+        "text": "hi"
+    },
+    "BlacklistedUsers": {}
+}
